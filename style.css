@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card{
+    position: absolute;
+    border-style: solid;
+}
+#card1{
+    width: 12rem;
+    height: 12rem;
+    top: 16rem;
+    left: 44rem;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#card2{
+    width: 14rem;
+    height: 14rem;
+    top: 15rem;
+    left: 43rem;
+    background-color: red;
+    border-radius:50%;
+    z-index: -1;
+}
+#card3{
+    width: 16rem;
+    height: 16rem;
+    top: 14rem;
+    left: 42rem;
+    background-color: red;
+    border-radius: 50%;
+    z-index: -2;
+}
+#card4{
+    width: 18rem;
+    height: 18rem;
+    top: 13rem;
+    left: 41rem;
+    background-color: blue;
+    border-radius: 50%;
+    z-index: -3;
+}
+#card5{
+    width: 20rem;
+    height: 20rem;
+    top: 12rem;
+    left: 40rem;
+    background-color: blue;
+    border-radius: 50%;
+    z-index: -4;
+}
+#card6{
+    width: 22rem;
+    height: 22rem;
+    top: 11rem;
+    left: 39rem;
+    background-color: black;
+    border-radius: 50%;
+    z-index: -5;
+     border: 2px solid white;
+}
+ #card7{
+    width: 24rem;
+    height: 24rem;
+    top: 10rem;
+    left: 38rem;
+    background-color: black;
+    border-radius: 50%;
+    z-index: -6;
+} 
+ #card8{
+    width: 26rem;
+    height: 26rem;
+    top: 9rem;
+    left: 37rem;
+    background-color: white;
+    border-radius: 50%;
+    z-index: -8;
+    border: 2px solid black;
+ }
+#card9{
+    width: 28rem;
+    height: 28rem;
+    top: 8rem;
+    left: 36rem;
+    background-color: white;
+    border-radius: 50%;
+    z-index: -9;
+}
+#card10{
+    width: 2rem;
+    height: 2rem;
+    top: 21rem;
+    left: 49rem;
+    border-radius: 50%;
+}
+#plus{
+    width: 2rem;
+    top: 22rem;
+    left: 49rem;
+}
+#circle{
+    height: 2rem;
+    top: 21rem;
+    left: 50rem;
+}
+#card11{
+    height: 6rem;
+    width: 6rem;
+    left: 47rem;
+    top: 19rem;
+    border-radius: 50%;
+}
